@@ -7,3 +7,5 @@ Building a starter-app from scratch, using Express, Webpack, Babel, React - http
 How Javascript interpreter evaluates your code - http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/
 
 Javascript scope chain - http://davidshariff.com/blog/javascript-scope-chain-and-closures/
+
+React.createClass vs React.Component - https://toddmotto.com/react-create-class-versus-component/
