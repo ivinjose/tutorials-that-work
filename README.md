@@ -1,8 +1,11 @@
-# tutorials-that-work AND lessons-that-humans-can-understand
+# tutorials-that-work
 
 Building a starter-app from scratch, using Express, Webpack, Babel, React - http://andrewhfarmer.com/build-your-own-starter/#0-intro
 
 Setting up CSS Modules using webpack - http://javascriptplayground.com/blog/2016/07/css-modules-webpack-react/
+
+
+# lessons-that-humans-can-understand
 
 How Javascript interpreter evaluates your code - http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/
 
