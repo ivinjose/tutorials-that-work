@@ -4,6 +4,8 @@ Building a starter-app from scratch, using Express, Webpack, Babel, React - http
 
 Setting up CSS Modules using webpack - http://javascriptplayground.com/blog/2016/07/css-modules-webpack-react/
 
+Simple CRUD using Express and Mongo - https://zellwk.com/blog/crud-express-mongodb/
+
 
 # lessons-that-humans-can-understand
 
