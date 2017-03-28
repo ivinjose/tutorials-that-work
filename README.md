@@ -17,4 +17,4 @@ React.createClass vs React.Component - https://toddmotto.com/react-create-class-
 
 Uploading files with AJAX - http://blog.teamtreehouse.com/uploading-files-ajax
 
-Inner workings for JSX and VDOM (Preact and React) - https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf#.gymgfipub
+Inner workings of JSX and VDOM (Preact and React) - https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf#.gymgfipub
