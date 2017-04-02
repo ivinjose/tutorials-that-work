@@ -6,6 +6,8 @@ Setting up CSS Modules using webpack - http://javascriptplayground.com/blog/2016
 
 Simple CRUD using Express and Mongo - https://zellwk.com/blog/crud-express-mongodb/
 
+React+Redux+FirebaseAPI -  https://blog.tighten.co/react-101-using-redux
+
 
 # lessons-that-humans-can-understand
 
