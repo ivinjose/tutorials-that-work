@@ -8,6 +8,8 @@ Simple CRUD using Express and Mongo - https://zellwk.com/blog/crud-express-mongo
 
 React+Redux+FirebaseAPI -  https://blog.tighten.co/react-101-using-redux
 
+Webpack: Getting started - http://scriptonitejs.com/getting-started-with-webpack/
+
 
 # lessons-that-humans-can-understand
 
