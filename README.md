@@ -10,6 +10,10 @@ React+Redux+FirebaseAPI -  https://blog.tighten.co/react-101-using-redux
 
 Webpack: Getting started - http://scriptonitejs.com/getting-started-with-webpack/
 
+Passport.js - http://toon.io/understanding-passportjs-authentication-flow/
+
+Passport.js - https://www.youtube.com/playlist?list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x
+
 
 # lessons-that-humans-can-understand
 
