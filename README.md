@@ -30,3 +30,5 @@ Inner workings of JSX and VDOM (Preact and React) - https://medium.com/@rajaraod
 ES6 features and comparison - http://es6-features.org/#Constants
 
 AirBnB JS guidelines - https://github.com/airbnb/javascript
+
+Docker architecture explained in video - https://www.youtube.com/watch?v=h0NCZbHjIpY
