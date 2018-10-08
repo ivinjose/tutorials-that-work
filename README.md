@@ -34,3 +34,5 @@ AirBnB JS guidelines - https://github.com/airbnb/javascript
 Docker architecture explained in video - https://www.youtube.com/watch?v=h0NCZbHjIpY
 
 Different ways of creating Objects in JS (with explanation based on Prototypes) - http://www.javascripttutorial.net/create-objects-in-javascript/
+
+Composition Vs. Inheritance - https://www.youtube.com/watch?time_continue=343&v=wfMtDGfHWpA
