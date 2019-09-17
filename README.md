@@ -15,7 +15,8 @@ Passport.js - http://toon.io/understanding-passportjs-authentication-flow/
 Passport.js - https://www.youtube.com/playlist?list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x
 
 Building JS Promises - https://www.mattgreer.org/articles/promises-in-wicked-detail
-( what I built for learning, from above tut - https://gist.github.com/ivinjose/7c931ab2d3b1a12e4e32f0b5d4b7495c )
+
+( Something I built for learning, from above tut - https://gist.github.com/ivinjose/7c931ab2d3b1a12e4e32f0b5d4b7495c )
 
 
 # lessons-that-humans-can-understand
