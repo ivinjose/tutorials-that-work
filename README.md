@@ -40,3 +40,5 @@ Docker architecture explained in video - https://www.youtube.com/watch?v=h0NCZbH
 Different ways of creating Objects in JS (with explanation based on Prototypes) - http://www.javascripttutorial.net/create-objects-in-javascript/
 
 Composition Vs. Inheritance - https://www.youtube.com/watch?time_continue=343&v=wfMtDGfHWpA
+
+Putting default values of Objects on prototype vs constructor method (Object access comparison based on prototype vs this) - https://codereview.stackexchange.com/questions/28344/should-i-put-default-values-of-attributes-on-the-prototype-to-save-space/28360#28360
